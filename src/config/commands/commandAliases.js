@@ -21,9 +21,9 @@ export const commandAliases = {
     'send': 'pay',
 
     'ping': 'ping',
-    'help': 'help',
-    'h': 'help',
-    'info': 'help',
+    'helpp': 'helpp',
+    'h': 'helpp',
+    'info': 'helpp',
 
     'ban': 'ban',
     'kick': 'kick',
