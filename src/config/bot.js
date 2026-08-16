@@ -1,4 +1,4 @@
-import { logger } from '../utils/logger.j';
+import { logger } from '../utils/logger.js';
 
 export const botConfig = {
   // =========================
